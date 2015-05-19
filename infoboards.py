@@ -46,9 +46,15 @@ class infoboards:
                     'TITLE': 'Pet Usage',
                     'DESC': 'How to use the pet system',
                     'LINES': (
-                        'To capture a pet use <red>/pet<end> to enable/disable pet mode'
+                    	'Enable/Disable pet mode by using <red>/pet<end>. Pet mode must be enabled to capture pets!'
+                        'To capture a pet use <red>"E"<end> when next to the animal you want'
 			'To release your pet forever use <red>/pet free<end>'
-			'To check the status of your pet use <red>/pet info<end> to show health, hunger, thirst, and stamina
+			'To check the status of your pet use <red>/pet info<end> to show health, hunger, thirst, and stamina'
+			'To recover thirst and stamina use <red>/sleep<end>, to wake pet up issue any move command'
+			'To move your pet to a specific location look at the spot and press <red>"E"<end>. This will send them to where you are looking'
+			'To make your pet attack a npc or player simply look at them and press <red>"E"<end>'
+			'To have your pet follow you press <red>"R"&"E"<end> together. To have your pet unfollow repeat the keystroke
+			
                     )
                 },
                 'map': {
