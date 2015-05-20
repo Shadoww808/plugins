@@ -43,8 +43,8 @@ class infoboards:
             },
             'BOARDS':{
                 'Custom Signs': { 
-                	'TITLE': 'Custom Signs'
-                	'DESC': 'Learn how to upload custom imagines to signs *DONATOR ONLY*'
+                	'TITLE': 'Custom Signs',
+                	'DESC': 'Learn how to upload custom imagines to signs *DONATOR ONLY*',
                 	'LINES': (
                 	     '<darkkhaki>To upload custome images to signs use<end> <red>/sil (image url)<end>'
                 	     'Make sure you are looking at the sign and about 3 feet away'
