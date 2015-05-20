@@ -42,7 +42,7 @@ class infoboards:
                 'PREFIX': 'red'
             },
             'BOARDS':{
-                'Custom Signs': { 
+                'signs': { 
                 	'TITLE': 'Custom Signs',
                 	'DESC': 'Learn how to upload custom imagines to signs *DONATOR ONLY*',
                 	'LINES': (
