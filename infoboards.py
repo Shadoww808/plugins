@@ -42,15 +42,15 @@ class infoboards:
                 'PREFIX': 'red'
             },
             'BOARDS':{
-                'Pets': {
-                    'TITLE': 'Pet Usage',
-                    'DESC': 'How to use the pet system',
-                    'LINES': (
-                        'To capture a pet use <red>/pet<end> to enable/disable pet mode'
-			'To release your pet forever use <red>/pet free<end>'
-			'To check the status of your pet use <red>/pet info<end> to show health, hunger, thirst, and stamina
-                    )
-                },
+                'Custom Signs': { 
+                	'TITLE': 'Custom Signs'
+                	'DESC': 'Learn how to upload custom imagines to signs *DONATOR ONLY*'
+                	'LINES': (
+                	     '<darkkhaki>To upload custome images to signs use<end> <red>/sil (image url)<end>'
+                	     'Make sure you are looking at the sign and about 3 feet away'
+                	     
+                	    )
+                },	    
                 'map': {
                     'TITLE': 'LIVE MAP',
                     'DESC': 'Learn how to use the Live Map',
